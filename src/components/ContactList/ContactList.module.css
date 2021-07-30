@@ -1,0 +1,12 @@
+.contactList {
+  text-align: left;
+
+  padding: 15px 50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  font-size: 16px;
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+  text-shadow: rgb(68, 58, 58) 0 0 2px;
+}
